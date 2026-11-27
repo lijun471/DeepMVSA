@@ -1,0 +1,171 @@
+================================================================================
+DeepMVSA Academic Research License (AR License)
+Version 1.0 — 2026
+================================================================================
+
+Copyright (c) 2026 Jun Li, Yanlong Guo, Zhaozhao Zeng
+(China University of Geosciences, Wuhan)
+All rights reserved.
+
+【著作权人说明 / Note on copyright holder】
+本软件系作者在中国地质大学（武汉）任职期间完成的职务作品。
+根据中国《计算机软件保护条例》，职务软件著作权原则上归单位所有；
+如经学校科技成果转化程序确认权属安排，本许可中的著作权人相应调整。
+This software was created by the authors during their employment at China
+University of Geosciences (Wuhan). Under PRC regulations, copyright in
+employment software may vest in the employer; if the university's technology
+transfer procedures determine otherwise, the copyright holder herein shall
+be adjusted accordingly.
+
+================================================================================
+ENGLISH TEXT (authoritative in case of conflict with the Chinese translation)
+================================================================================
+
+1. DEFINITIONS
+
+"Software" means the DeepMVSA source code, object code, scripts, trained
+weights, documentation, and any accompanying files distributed in this
+repository, including but not limited to implementations of DeepMVSA,
+DU-MVSA, NKKT-Net, and related experiments.
+
+"Academic Use" means use by employees or enrolled students of accredited
+academic or non-profit research institutions, solely for non-commercial
+teaching, academic research, or scholarly publication, where no results are
+used, directly or indirectly, for any commercial purpose or for the benefit
+of any commercial entity.
+
+"Commercial Use" means any use that is not Academic Use, including without
+limitation: (a) use by or on behalf of any for-profit entity; (b) use in
+any product, service, or process that is sold, licensed, rented, or offered
+for a fee; (c) use in internal business operations of any entity; (d) use
+funded by commercial sponsors where results are delivered to the sponsor;
+(e) incorporation into any software, hardware, or cloud service provided
+to third parties.
+
+2. GRANT OF LICENSE (ACADEMIC USE ONLY)
+
+Subject to the terms of this License, the copyright holders grant you a
+non-exclusive, non-transferable, non-sublicensable, revocable, royalty-free
+license to download, use, and modify the Software solely for Academic Use.
+
+3. RESTRICTIONS
+
+You shall NOT, without prior written permission from the copyright holders:
+(a) use the Software, in whole or in part, for any Commercial Use;
+(b) redistribute, publish, sell, rent, lease, sublicense, or otherwise
+    transfer the Software or any derivative work to any third party;
+(c) remove or alter any copyright notice, license text, or attribution
+    contained in the Software;
+(d) use the Software or its outputs to train, fine-tune, or evaluate any
+    machine-learning model that is itself distributed or commercially used.
+
+Modified versions may be created for internal Academic Use only and must
+retain this License and all copyright notices; they may not be distributed
+without written permission.
+
+4. NO PATENT LICENSE — EXPRESS RESERVATION
+
+This License grants NO rights under any patent or patent application,
+whether existing or future, owned or controlled by the copyright holders
+or their employers. No patent license arises by implication, estoppel,
+exhaustion, or otherwise. The authors expressly reserve all patent rights,
+including rights in inventions embodied in or practiced by the Software.
+Any use of the Software is at your own risk with respect to third-party
+and the authors' patent rights.
+
+5. CITATION REQUIREMENT
+
+Any publication, presentation, or publicly released result obtained in
+whole or in part with the Software must cite:
+  Jun Li, Yanlong Guo, Zhaozhao Zeng, "Scalable Minimum-Volume Simplex
+  Estimation with Non-asymptotic Analysis", arXiv:2609.25576, 2026.
+
+6. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND NON-INFRINGEMENT. IN NO
+EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+7. TERMINATION
+
+This License terminates automatically and immediately upon any breach of
+its terms. Upon termination you must cease all use and destroy all copies
+of the Software in your possession. Sections 4, 5, 6, and 8 survive
+termination.
+
+8. GOVERNING LAW AND JURISDICTION
+
+This License is governed by the laws of the People's Republic of China.
+Any dispute arising from this License shall be submitted to the competent
+people's court at the location of the copyright holders (Wuhan, Hubei).
+
+9. COMMERCIAL LICENSING
+
+For Commercial Use licenses, OEM licensing, or other permissions, contact:
+  [EMAIL TO BE FILLED — 建议填写课题组或未来公司商务邮箱]
+
+================================================================================
+中文译文（仅供参考；如与英文文本冲突，以英文文本为准）
+================================================================================
+
+1. 定义
+"本软件"指本仓库分发的 DeepMVSA 源代码、目标代码、脚本、训练权重、
+文档及任何随附文件，包括但不限于 DeepMVSA、DU-MVSA、NKKT-Net 及相关
+实验的实现。
+"学术使用"指经认证的学术或非营利研究机构的雇员或注册学生，仅出于
+非商业的教学、学术研究或学术发表目的使用，且其结果未直接或间接用
+于任何商业目的或惠及任何商业实体。
+"商业使用"指任何非学术使用，包括但不限于：(a) 任何营利性实体或代表
+其进行的使用；(b) 在出售、许可、出租或收费提供的产品、服务或流程中
+的使用；(c) 任何实体内部业务运营中的使用；(d) 由商业赞助方资助且成
+果交付赞助方的使用；(e) 并入向第三方提供的任何软件、硬件或云服务。
+
+2. 许可授予（仅限学术使用）
+在遵守本许可条款的前提下，著作权人授予您非独占、不可转让、不可转
+授权、可撤销、免许可费的权利，仅为学术使用目的下载、使用和修改本
+软件。
+
+3. 限制
+未经著作权人事先书面许可，您不得：
+(a) 将本软件全部或部分用于任何商业使用；
+(b) 再分发、发布、出售、出租、租赁、转授权或以其他方式向任何第三
+    方转让本软件或任何衍生作品；
+(c) 删除或篡改本软件中的任何版权声明、许可文本或署名；
+(d) 使用本软件或其输出训练、微调或评估任何本身被分发或商业使用的
+    机器学习模型。
+修改版本仅供内部学术使用，且必须保留本许可及全部版权声明；未经书
+面许可不得分发。
+
+4. 无专利许可——明示保留
+本许可不授予任何现有或未来的、由著作权人或其所在单位拥有或控制的
+专利或专利申请项下的任何权利。不产生任何默示、禁反言、权利用尽或
+其他形式的专利许可。作者明示保留全部专利权利，包括本软件所体现或
+实施的发明的权利。
+
+5. 引用要求
+凡全部或部分使用本软件取得的任何出版物、报告或公开发布的成果，
+必须引用：
+  Jun Li, Yanlong Guo, Zhaozhao Zeng, "Scalable Minimum-Volume Simplex
+  Estimation with Non-asymptotic Analysis", arXiv:2609.25576, 2026.
+
+6. 无担保
+本软件按"原样"提供，不附带任何明示或默示担保，包括但不限于适销性、
+特定用途适用性、准确性及不侵权之担保。在任何情况下，作者或著作权
+人均不对因本软件或其使用引起的任何索赔、损害或其他责任承担责任。
+
+7. 终止
+任何违反本许可条款的行为将导致本许可自动立即终止。终止后您必须
+停止一切使用并销毁您持有的本软件全部副本。第 4、5、6、8 条在终止
+后继续有效。
+
+8. 适用法律与管辖
+本许可受中华人民共和国法律管辖。因本许可产生的任何争议应提交著
+作权人所在地（湖北武汉）有管辖权的人民法院解决。
+
+9. 商业许可
+如需商业使用许可、OEM 许可或其他授权，请联系：
+  [EMAIL TO BE FILLED]
